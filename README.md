@@ -18,7 +18,7 @@ To get started with the dashboard, you will need to:
 
 ## Demo
 
-You can see a demo of the dashboard <a href="">Here</a>
+You can see a demo of the dashboard <a href="https://tar-genius.github.io/Admin-Dashboard/">Here</a>
 
 ## Screenshots
 
