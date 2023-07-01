@@ -1,6 +1,7 @@
 # Admin Dashboard made with CSS grid
 
-This repository contains the code for an admin dashboard made with CSS grid. The dashboard is fully responsive and can be used on any device.
+This repository contains the code for an admin dashboard made with CSS grid.
+<hr>
 
 ## Features
 
@@ -8,21 +9,17 @@ This repository contains the code for an admin dashboard made with CSS grid. The
 * The dashboard is fully customizable, so you can change the colors, fonts, and layout to match your needs.
 * The dashboard is easy to use and navigate.
 
-## Getting started
-
-To get started with the dashboard, you will need to:
-
-1. Clone the repository to your local machine.
-2. Install the dependencies by running `npm install`.
-3. Run the dashboard by running `npm start`.
+<hr>
 
 ## Demo
 
 You can see a demo of the dashboard <a href="https://tar-genius.github.io/Admin-Dashboard/">Here</a>
 
+<hr>
 ## Screenshots
 
 [Imgur](https://i.imgur.com/KBnt8Ih.png)
+
  
 ## Technologies used
 
