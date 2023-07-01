@@ -247,6 +247,10 @@ div[class^="pic"]{
     border-radius: 6%;
     
 }
+div[class^="pic"]:hover{
+  
+    transform: scale(1.03);
+}
 .trending{
     padding-left: 0.4rem; 
     background-color: #fff;
