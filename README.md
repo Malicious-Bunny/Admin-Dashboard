@@ -22,9 +22,8 @@ You can see a demo of the dashboard <a href="https://tar-genius.github.io/Admin-
 
 ## Screenshots
 
-![Screenshot of the dashboard](https://imgur.com/KBnt8Ih)
-
-
+[Imgur](https://i.imgur.com/KBnt8Ih.png)
+ 
 ## Technologies used
 
 * Html
